@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sebastien-le-quellec/"><img height="30" src="https://raw.githubusercontent.com/LQ-Sebastien/LQ-Sebastien/main/assets/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-  <a href="https://twitter.com/KronikSeb"><img height="30" src="https://raw.githubusercontent.com/LQ-Sebastien/LQ-Sebastien/main/assets/twitter.png?raw=true"></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/LQSebastien"><img height="30" src="https://raw.githubusercontent.com/LQ-Sebastien/LQ-Sebastien/main/assets/twitter.png?raw=true"></a>&nbsp;&nbsp;
   <a href="https://open.spotify.com/user/6j6jvf0refwqcwdxzoxalfvja?si=96914a4dfde245b8"><img height="30" src="https://raw.githubusercontent.com/LQ-Sebastien/LQ-Sebastien/main/assets/spotify.png?raw=true"></a>&nbsp;&nbsp;
   <a href="https://www.buymeacoffee.com/skronik"><img height="30" src="https://raw.githubusercontent.com/LQ-Sebastien/LQ-Sebastien/main/assets/bmcoffee.jpg?raw=true"></a>&nbsp;&nbsp;
 </p>
@@ -18,7 +18,7 @@
 
 
 <p align="center">
-   <a href="https://twitter.com/SebKronik"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/SebKronik?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@SebKronik"></a>
+   <a href="https://twitter.com/LQSebastien"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/LQSebastien?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@LQSebastien"></a>
    <br>
    <a href="https://visitor-badge.glitch.me/badge?page_id=lq-sebastien"> <img alt="LQ-Sebastien Github Visitor" src="https://visitor-badge.glitch.me/badge?page_id=lq-sebastien"> </a>
 </p>
@@ -51,10 +51,10 @@
 <img align="right" width="225px" alt="Old phone on a wall" src="https://raw.githubusercontent.com/LQ-Sebastien/LQ-Sebastien/main/assets/200.webp?raw=true" />
 
 <p align="left">
-  <a href="https://twitter.com/KronikSeb"><img src="https://raw.githubusercontent.com/LQ-Sebastien/LQ-Sebastien/main/assets/twitter-bar.svg" width="150"></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/LQSebastien"><img src="https://raw.githubusercontent.com/LQ-Sebastien/LQ-Sebastien/main/assets/twitter-bar.svg" width="150"></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sebastien-le-quellec/"><img src="https://raw.githubusercontent.com/LQ-Sebastien/LQ-Sebastien/main/assets/linkedin-bar.png" width="150"></a>
   <br />
-  <a href="contact@seblequellec.fr"><img src="https://raw.githubusercontent.com/LQ-Sebastien/LQ-Sebastien/main/assets/email_me.svg" width="150"></a>&nbsp;&nbsp;
+  <a href="mailto:contact@seblequellec.fr"><img src="https://raw.githubusercontent.com/LQ-Sebastien/LQ-Sebastien/main/assets/email_me.svg" width="150"></a>&nbsp;&nbsp;
   <a href="https://steamcommunity.com/id/KRONIKstm/"><img src="https://raw.githubusercontent.com/LQ-Sebastien/LQ-Sebastien/main/assets/steam.png" width="150"></a>
 </p>
 <br />
