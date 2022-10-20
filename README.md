@@ -26,7 +26,7 @@
 <h5 align="center">
   ☕ <i>I’m one of those people who doesn’t wake up without coffee</i> ☕
   <br>
-  <a href="https://www.buymeacoffee.com/skronik"><img height="30" src="https://raw.githubusercontent.com/LQ-Sebastien/LQ-Sebastien/main/assets/bmcoffee.svg?raw=true"></a>
+  <a href="https://www.buymeacoffee.com/skronik"><img height="60" src="https://raw.githubusercontent.com/LQ-Sebastien/LQ-Sebastien/main/assets/bmcoffee.svg?raw=true"></a>
 </h5>
  
 <br />
@@ -51,11 +51,11 @@
 <img align="right" width="450px" alt="Old phone on a wall " src="https://raw.githubusercontent.com/LQ-Sebastien/LQ-Sebastien/main/assets/200.gif?raw=true" />
 
 <p align="left">
-  <a href="https://twitter.com/KronikSeb"><img src="https://raw.githubusercontent.com/LQ-Sebastien/LQ-Sebastien/main/assets/twitter.png"></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sebastien-le-quellec/"><img src="https://raw.githubusercontent.com/LQ-Sebastien/LQ-Sebastien/main/assets/linkedin-bar.png"></a>
+  <a href="https://twitter.com/KronikSeb"><img src="https://raw.githubusercontent.com/LQ-Sebastien/LQ-Sebastien/main/assets/twitter-bar.svg" width="50"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sebastien-le-quellec/"><img src="https://raw.githubusercontent.com/LQ-Sebastien/LQ-Sebastien/main/assets/linkedin-bar.png" width="50"></a>
   <br />
-  <a href="contact@seblequellec.fr"><img src="https://raw.githubusercontent.com/LQ-Sebastien/LQ-Sebastien/main/assets/email_me.svg"></a>&nbsp;&nbsp;
-  <a href="https://steamcommunity.com/id/KRONIKstm/"><img src="https://raw.githubusercontent.com/LQ-Sebastien/LQ-Sebastien/main/assets/steam.png"></a>
+  <a href="contact@seblequellec.fr"><img src="https://raw.githubusercontent.com/LQ-Sebastien/LQ-Sebastien/main/assets/email_me.svg" width="50"></a>&nbsp;&nbsp;
+  <a href="https://steamcommunity.com/id/KRONIKstm/"><img src="https://raw.githubusercontent.com/LQ-Sebastien/LQ-Sebastien/main/assets/steam.png" width="50"></a>
 </p>
 
 
@@ -75,24 +75,15 @@
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="https://raw.githubusercontent.com/LQ-Sebastien/LQ-Sebastien/main/assets/html.svg" alt="html" style="vertical-align:top; margin:4px">    
   <img src="https://raw.githubusercontent.com/LQ-Sebastien/LQ-Sebastien/main/assets/js.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/LQ-Sebastien/LQ-Sebastien/main/assets/html.svg" alt="html" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/LQ-Sebastien/LQ-Sebastien/main/assets/css3.svg" alt="html" style="vertical-align:top; margin:4px">     
   <img src="https://raw.githubusercontent.com/LQ-Sebastien/LQ-Sebastien/main/assets/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/LQ-Sebastien/LQ-Sebastien/main/assets/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/LQ-Sebastien/LQ-Sebastien/main/assets/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/LQ-Sebastien/LQ-Sebastien/main/assets/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 
- ### - What i do
-
-
-<br />
-
-<p align="center">
-   <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
-   </p>
-   
-   
 <br />
 
 <h2 align="center">🤝 Support</h2>
@@ -104,6 +95,6 @@
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
 <p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+        <img src="https://raw.githubusercontent.com/LQ-Sebastien/LQ-Sebastien/main/assets/Bottom.svg" alt="Github Stats" />
 </p>
 
