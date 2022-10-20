@@ -47,7 +47,7 @@
   
 
 <h2>💬 Contact me? It's here 👇</h2>
-
+<br />
 <img align="right" width="225px" alt="Old phone on a wall" src="https://raw.githubusercontent.com/LQ-Sebastien/LQ-Sebastien/main/assets/200.webp?raw=true" />
 
 <p align="left">
@@ -75,13 +75,17 @@
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+  <img src="https://raw.githubusercontent.com/LQ-Sebastien/LQ-Sebastien/main/assets/pc.svg" alt="pc" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/LQ-Sebastien/LQ-Sebastien/main/assets/raspberrypi.svg" alt="rpi" style="vertical-align:top; margin:4px">
+  <br />
   <img src="https://raw.githubusercontent.com/LQ-Sebastien/LQ-Sebastien/main/assets/js.svg" alt="js" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/LQ-Sebastien/LQ-Sebastien/main/assets/html.svg" alt="html" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/LQ-Sebastien/LQ-Sebastien/main/assets/css3.svg" alt="html" style="vertical-align:top; margin:4px">     
-  <img src="https://raw.githubusercontent.com/LQ-Sebastien/LQ-Sebastien/main/assets/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/LQ-Sebastien/LQ-Sebastien/main/assets/css3.svg" alt="css3" style="vertical-align:top; margin:4px">
+  <br />     
   <img src="https://raw.githubusercontent.com/LQ-Sebastien/LQ-Sebastien/main/assets/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/LQ-Sebastien/LQ-Sebastien/main/assets/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/LQ-Sebastien/LQ-Sebastien/main/assets/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/LQ-Sebastien/LQ-Sebastien/main/assets/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
 </p>
 
 <br />
