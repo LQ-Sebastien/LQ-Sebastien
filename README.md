@@ -46,15 +46,15 @@
   - 🔭 Astronomy FanBoi 🥰
   
 
-  <h2>💬 Contact me? It's here 👇</h2>
+<h2>💬 Contact me? It's here 👇</h2>
 
-<img align="right" width="450px" alt="Old phone on a wall " src="https://raw.githubusercontent.com/LQ-Sebastien/LQ-Sebastien/main/assets/200.gif?raw=true" />
+<img align="right" width="450px" alt="Old phone on a wall" src="https://raw.githubusercontent.com/LQ-Sebastien/LQ-Sebastien/main/assets/200.webp?raw=true" />
 
 <p align="left">
-  <a href="https://twitter.com/KronikSeb"><img src="https://raw.githubusercontent.com/LQ-Sebastien/LQ-Sebastien/main/assets/twitter-bar.svg" width="50"></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sebastien-le-quellec/"><img src="https://raw.githubusercontent.com/LQ-Sebastien/LQ-Sebastien/main/assets/linkedin-bar.png" width="50"></a>
+  <a href="https://twitter.com/KronikSeb"><img src="https://raw.githubusercontent.com/LQ-Sebastien/LQ-Sebastien/main/assets/twitter-bar.svg" width="150"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sebastien-le-quellec/"><img src="https://raw.githubusercontent.com/LQ-Sebastien/LQ-Sebastien/main/assets/linkedin-bar.png" width="150"></a>
   <br />
-  <a href="contact@seblequellec.fr"><img src="https://raw.githubusercontent.com/LQ-Sebastien/LQ-Sebastien/main/assets/email_me.svg" width="50"></a>&nbsp;&nbsp;
+  <a href="contact@seblequellec.fr"><img src="https://raw.githubusercontent.com/LQ-Sebastien/LQ-Sebastien/main/assets/email_me.svg" width="150"></a>&nbsp;&nbsp;
   <a href="https://steamcommunity.com/id/KRONIKstm/"><img src="https://raw.githubusercontent.com/LQ-Sebastien/LQ-Sebastien/main/assets/steam.png" width="50"></a>
 </p>
 
